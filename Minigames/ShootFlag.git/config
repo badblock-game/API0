@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /var/opt/gitlab/backups/repositories/API0/Minigames/ShootFlag.bundle
+	fetch = +refs/*:refs/*
+	mirror = true
+[gitlab]
+	fullpath = API0/Minigames/ShootFlag

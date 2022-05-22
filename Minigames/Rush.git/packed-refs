@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled 
+6ecc883112cd4309ad94442055f3e8b44d8988ba refs/heads/master
+0ed4d5bf70af4cc53f6f9ae2119d5daf1c6df4ac refs/heads/revert-6feddfe2
+0ed4d5bf70af4cc53f6f9ae2119d5daf1c6df4ac refs/keep-around/0ed4d5bf70af4cc53f6f9ae2119d5daf1c6df4ac
+155c47912948dd6fdf71073197bf6da270886177 refs/keep-around/155c47912948dd6fdf71073197bf6da270886177
+6feddfe2498775ce6496c354ed6a02aa7c63b497 refs/keep-around/6feddfe2498775ce6496c354ed6a02aa7c63b497
+0ed4d5bf70af4cc53f6f9ae2119d5daf1c6df4ac refs/merge-requests/1/head
